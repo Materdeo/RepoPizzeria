@@ -9,6 +9,20 @@ Nasza przytulna, niezobowiązująca atmosfera jest idealna na szybką kolację z
 Nie możemy się doczekać, aby służyć Ci w Mario Italiano. Do zobaczenia wkrótce!
 
 
+## O naszej restauracji
+
+ Jak tylko przejdziesz przez drzwi, przywita Cię aromat świeżo upieczonej pizzy i skwierczące dźwięki naszego pieca opalanego drewnem.
+
+Wnętrze naszej pizzerii jest ciepłe i zachęcające, z rustykalnym, autentycznym włoskim klimatem. Odkryte ceglane ściany i drewniane belki nadają przestrzeni przytulną, domową atmosferę, a otwarta kuchnia i część wypoczynkowa pozwalają obserwować naszych wykwalifikowanych pizzaiolos przy pracy.
+
+Do wyboru są tradycyjne drewniane stoły i krzesła, a także pluszowe kabiny, które zapewniają bardziej swobodną i relaksującą atmosferę. Ściany zdobią kolorowe murale i dzieła sztuki, które dodają przestrzeni koloru i charakteru.
+
+W oczekiwaniu na pyszną pizzę, możesz zapoznać się z naszym bogatym menu napojów, 
+
+Mamy nadzieję, że będziesz zadowolony z wizyty w naszej pizzerii. Buon appetito!
+
+
+
 ## Nasza Historia 
 
  Mario Italiano została założona latem 1990 roku przez człowieka o imieniu Mario, który niedawno wyemigrował do Polski z Włoch. Giovanni był szefem kuchni we Włoszech przez wiele lat, a swoją miłość i pasję do pizzy przywiózł ze sobą do Polski.
