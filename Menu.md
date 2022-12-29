@@ -13,9 +13,9 @@
 | 4 | Romana |  sos pomidorowy, ser, kurczak | 20zł | 25zł | 28zł |
 | 5 | Amerykańska | sos pomidorowy, ser, frytki, kurczak | 20zł  | 25zł  | 30zł |
 | 6 | Capriciosa | sos pomidorowy, ser, szynka, pieczarki | 20zł |  25zł | 30zł |
-
-
-## **Sosy**
+| 7  | Vegetariana  | sos pomidorowy, ser, cebula, papryka, pieczarki, groszek, kukurydza, brokuły |  20zł  | 25zł  | 30zł |
+ 
+ ## **Sosy**
 
 <img  src="img/sosy.jpg" style="width:300px; height:auto">
 
@@ -27,6 +27,21 @@
 | 4 | Pomidorowo-czosnkowy  |   3.50zł |
 | 5 | Pomidorowy-ostry  |  3.50zł |
 | 6 | Duński  | 3.50zł |
+
+
+
+## **Sałatki**
+
+
+<img src="img/salata.jpg" style="width:300px; height:auto">
+
+ LP | Sałatka  | |  Cena  |
+|----|-----------|---------------------------------------------|-------------|
+| 1 | Sałatka grecka   | mieszanka sałat, ogórek, pomidor, papryka, oliwki, czerwona cebula, ser feta, sos vinaigrette | 30.00zł |
+| 2 | Sałatka wykwintna  |  mieszanka sałat, ogórek, papryka, pomidor, kukurydza, kurczak (100g), jajko, ser, sos vinaigrette | 39.00zł | 
+| 3 | Sałatka koktajlowa    | mieszanka sałat, ogórek, papryka, pomidor, łosoś wedzony, krewetki koktajlowe, ser, sos vinaigrette | 41.00zł |
+| 4 | Sałatka polonez   |  mieszanka sałat, pomidor, ogórek konserwowy, jajko sadzone, bekon grilowany, twaróg wedzony, sos vinaigrette | 36.00zł | 
+| 5 | Sałatka polonez   |  mieszanka sałat, suszone pomidory, mozzarella, słonecznik prazony i dynia, grillowana papryka, poledwica (100g), sos vinaigrette, sos balsamico | 40.00zł | 
 
 
 ## **Przystawki**
