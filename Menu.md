@@ -44,6 +44,19 @@
 | 5 | Sałatka polonez   |  mieszanka sałat, suszone pomidory, mozzarella, słonecznik prazony i dynia, grillowana papryka, poledwica (100g), sos vinaigrette, sos balsamico | 40.00zł | 
 
 
+
+## **Dania dla dzieci**
+
+
+
+ LP | Danie   |  Cena  |
+|----|-----------|---------------------------------------------|
+| 1 | Strips 3 sztuki , frytki 100g  |  20.00zł |
+| 2 | Spaghetti z kurczakiem w sosie na pomidorach |20.00zł| 
+| 3 | Mini burger frytki 100g| 28.00zł| 
+
+
+
 ## **Przystawki**
 
 <img src="img/tempura.jpg"  style="width:300px; height:auto">
@@ -56,9 +69,9 @@
 
 ## **Napoje** 
 
- LP | Przystawka  |  Cena  |
+ LP | Napój  |  Cena  |
 |----|-----------|---------------------------------------------|
-| 1 | Coca-cola  |  11.00zł |
+| 1 | Strips 3 sztuki  |  11.00zł |
 | 2 | Coca Cola Cherry  |  11.00zł | 
 | 3 | Fanta Niebieska  |  11.00zł |
 | 4 | Sprite  |  11.00zł | 
