@@ -52,3 +52,20 @@
 |----|-----------|---------------------------------------------|-------------|
 | 1 | Krewetki królewskie smażone w piwnej tempurze   |  podawane z autorskim dipem i bułeczką naszego wypieku | 41.00zł |
 | 2 | Bruschetta zapiekana z serem mozarella |  podawane z autorskim dipem i bułeczką naszego wypieku | 41.00zł | 
+
+
+## **Napoje** 
+
+ LP | Przystawka  |  Cena  |
+|----|-----------|---------------------------------------------|
+| 1 | Coca-cola  |  11.00zł |
+| 2 | Coca Cola Cherry  |  11.00zł | 
+| 3 | Fanta Niebieska  |  11.00zł |
+| 4 | Sprite  |  11.00zł | 
+| 5 | Kropla Beskidu Niegazowana  | 8.00zł |
+| 6 | Kropla Beskidu Gazowana  | 8.00zł |
+| 7 | Cappy Jabłkowy  | 11.00zł | 
+| 8 | Cappy Multiwitamina |  11.00zł | 
+
+
+
