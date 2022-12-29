@@ -9,6 +9,15 @@ Nasza przytulna, niezobowiązująca atmosfera jest idealna na szybką kolację z
 Nie możemy się doczekać, aby służyć Ci w Mario Italiano. Do zobaczenia wkrótce!
 
 
+## Nasza Historia 
+
+ Mario Italiano została założona latem 1990 roku przez człowieka o imieniu Mario, który niedawno wyemigrował do Polski z Włoch. Giovanni był szefem kuchni we Włoszech przez wiele lat, a swoją miłość i pasję do pizzy przywiózł ze sobą do Polski.
+
+Giovanni zaczął od małego, otwierając małą pizzerię w ruchliwym centrum miasta. Używał tylko najświeższych składników i robił wszystkie pizze ręcznie, korzystając z tradycyjnych włoskich przepisów. Pizzeria szybko zyskał wiernych fanów, a przed długi czas, Mario był w stanie rozwinąć działalność i otworzyć dodatkowe lokalizacje.
+
+Z biegiem lat, Mario Italiano  się ukochaną instytucją w społeczności. Znana jest z pysznej, autentycznej włoskiej pizzy i przyjaznej, gościnnej atmosfery. Pomimo konkurencji ze strony nowszych, modniejszych pizzerii, Papa's Pizza Place przetrwała próbę czasu i pozostaje popularnym wyborem zarówno dla mieszkańców, jak i turystów.
+
+
 ## Nasz zespół 
 
 | Imię  | Rola  | Lata stażu |
@@ -18,6 +27,7 @@ Nie możemy się doczekać, aby służyć Ci w Mario Italiano. Do zobaczenia wkr
 | Daisy    | Kelnerka                   |    3 lata           |
 | Marian         |                     Dostawa       |  5 lat                   |
 | Luigi | Ochrona | Rok        |
+
 
 
 ## Galeria
