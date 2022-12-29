@@ -3,7 +3,7 @@
 
 ## **Pizze**
 
-<img src="img/pizza1.jpg" style="width:300px; height:auto">
+<img src="img/pizza1.jpg" style="width:500px; height:100%">
 
  LP | Pizza  | S:25cm M:40cm L:60cm | Cena S | Cena M| Cena L |
 |----|-----------|---------------------------------------------|-------------|-------------|-------------|
@@ -48,6 +48,7 @@
 ## **Dania dla dzieci**
 
 
+<img src="img/spaghetti.jpg"  style="width:300px; height:auto">
 
  LP | Danie   |  Cena  |
 |----|-----------|---------------------------------------------|
@@ -59,7 +60,7 @@
 
 ## **Przystawki**
 
-<img src="img/tempura.jpg"  style="width:300px; height:auto">
+<img src="img/fishchips.jpg"  style="width:300px; height:auto">
 
  LP | Przystawka  | |  Cena  |
 |----|-----------|---------------------------------------------|-------------|
@@ -68,6 +69,8 @@
 
 
 ## **Napoje** 
+
+<img src="img/drink.jpg"  style="width:300px; height:auto">
 
  LP | Napój  |  Cena  |
 |----|-----------|---------------------------------------------|
