@@ -3,6 +3,7 @@
 
 ## **Pizze**
 
+<img src="img/pizza1.jpg" style="width:300px; height:auto">
 
 
 | LP | Pizza  | S:25cm M:40cm L:60cm | Cena |
