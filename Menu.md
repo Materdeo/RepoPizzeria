@@ -33,7 +33,7 @@
 ## **Sałatki**
 
 
-<img src="img/salata.jpg" style="width:300px; height:auto">
+<img src="img/salatka.jpg" style="width:300px; height:auto">
 
  LP | Sałatka  | |  Cena  |
 |----|-----------|---------------------------------------------|-------------|
