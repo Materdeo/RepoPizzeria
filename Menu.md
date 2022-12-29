@@ -57,6 +57,21 @@
 | 3 | Mini burger frytki 100g| 28.00zł| 
 
 
+ 
+ ## **Dodatki**
+
+<img  src="img/add.jpg" style="width:300px; height:auto">
+
+ LP | Dodatki  | Cena| 
+|----|-----------|---------------------------------------------|
+| 1 | Frytki  |  3.50zł |
+| 2 | Frytki Belgijskie  |  3.50zł |
+| 3 | Ziemniaki Pieczone  |  3.50zł |
+| 4 | Krążki cebulowe  |   3.50zł |
+| 5 | Surówki sezonowe  |  3.50zł |
+| 6 | Pieczywo czosnkowe   | 3.50zł |
+
+
 
 ## **Przystawki**
 
