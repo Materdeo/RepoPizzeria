@@ -9,8 +9,18 @@ Nasza przytulna, niezobowiązująca atmosfera jest idealna na szybką kolację z
 Nie możemy się doczekać, aby służyć Ci w Mario Italiano. Do zobaczenia wkrótce!
 
 
+## Nasz zespół 
 
-# Galeria
+| Imię  | Rola  | Lata stażu |
+|-------|-------|-------------------|
+| Mario | Główny kucharz | 5+ lat        |
+| Samantha | Kasa, pomocnik w kuchni | 3 lata       |
+| Daisy    | Kelnerka                   |    3 lata           |
+| Marian         |                     Dostawa       |  5 lat                   |
+| Luigi | Ochrona | Rok        |
+
+
+## Galeria
 
 <div class="grid" style=" display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -20,4 +30,5 @@ Nie możemy się doczekać, aby służyć Ci w Mario Italiano. Do zobaczenia wkr
   <img src="img/pizzeria3.jpg" alt="Image 3" style="width:1fr; height:400px;">
 
 </div>
+
 
