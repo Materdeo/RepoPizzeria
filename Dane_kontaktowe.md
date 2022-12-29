@@ -14,3 +14,8 @@
 |            | Niedziela 10:00 - 20:00       |  Niedziela 10:00 - 20:00     |
 |            | Święta  Zamknięte  |  Święta Zamknięte      |
 
+
+
+#Mapa dojazdu
+
+<img src="img/mapa.png" style="width:100%; height:600px;"> 
